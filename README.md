@@ -28,19 +28,17 @@ Siga os passos abaixo para configurar o projeto em sua máquina, o que lhe permi
    ```bash
    git clone https://github.com/JulianaForbici/Calculadora-React.git
 
+
   2. **Navegue até o diretório do projeto**:
-   ```bash
    cd Calculadora-React
 
  3. **Instale as dependências:**:
-   ```bash
    npm install
    npm install styled-components
 
 ## 🔧 Uso
 Para iniciar o aplicativo, execute o seguinte comando, e a aplicação estará disponível para uso:
 
-  ```bash
    npm run dev
 
 ## 🤝 Contribuições
