@@ -26,7 +26,7 @@ Siga os passos abaixo para configurar o projeto em sua máquina, o que lhe permi
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/JulianaForbici/Calculadora-React.git
+   git clone https://github.com/JulianaForbici/TrabalhoCalculadora
 
 
   2. **Navegue até o diretório do projeto**:
