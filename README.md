@@ -1,6 +1,6 @@
 # 🥳 **Calculadora React** 🥳
 
-Bem-vindo ao projeto da **Calculadora React**, uma aplicação simples e elegante que foi desenvolvida como parte do curso de Front-End da Vai na Web; esta calculadora, que é ideal para realizar operações matemáticas básicas, oferece uma experiência fácil e estilosa ao usuário.
+Bem-vindo ao projeto da **Calculadora React**, uma aplicação simples e elegante que foi desenvolvida como trabalho da faculdade! Ela é ideal para realizar operações matemáticas básicas, oferece uma experiência fácil e estilosa ao usuário. :)
 
 ## 🎯 **Funcionalidades**
 
