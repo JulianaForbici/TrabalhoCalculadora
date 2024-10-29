@@ -1,83 +1,53 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculadora React - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        h1, h2, h3, h4 {
-            color: #ff69b4;
-        }
-        code {
-            background-color: #eee;
-            padding: 2px 5px;
-            border-radius: 3px;
-        }
-        pre {
-            background-color: #eee;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-    </style>
-</head>
-<body>
+# 🥳 **Calculadora React** 🥳
 
-    <h1>🥳 <strong>Calculadora React</strong> 🥳</h1>
+Bem-vindo ao projeto da **Calculadora React**, uma aplicação simples e elegante que foi desenvolvida como parte do curso de Front-End da Vai na Web; esta calculadora, que é ideal para realizar operações matemáticas básicas, oferece uma experiência fácil e estilosa ao usuário.
 
-    <p>Bem-vindo ao projeto da <strong>Calculadora React</strong>! Uma aplicação simples e elegante desenvolvida como parte do curso de Front-End da Vai na Web. Esta calculadora é ideal para realizar operações matemáticas básicas com facilidade e estilo.</p>
+## 🎯 **Funcionalidades**
 
-    <h2>🎯 <strong>Funcionalidades</strong></h2>
-    <ul>
-        <li><strong>Operações Básicas</strong>: Realiza adição, subtração, multiplicação e divisão.</li>
-        <li><strong>Suporte a Números</strong>: Lida com números positivos e negativos.</li>
-        <li><strong>Resultado em Tempo Real</strong>: Mostra o resultado enquanto o usuário digita.</li>
-        <li><strong>Limpeza Simples</strong>: Possui um botão para limpar a tela e reiniciar a calculadora.</li>
-    </ul>
+- **Operações Básicas**: A calculadora realiza operações como adição, subtração, multiplicação e divisão, permitindo que o usuário execute cálculos rapidamente.
+- **Suporte a Números**: Ela lida com números positivos e negativos, tornando-a versátil para diferentes tipos de cálculos.
+- **Resultado em Tempo Real**: O resultado é exibido em tempo real enquanto o usuário digita, o que proporciona uma interação mais dinâmica.
+- **Limpeza Simples**: A calculadora possui um botão para limpar a tela e reiniciar as operações, facilitando o uso contínuo.
 
-    <h2>🛠️ <strong>Tecnologias Utilizadas</strong></h2>
-    <ul>
-        <li><strong>React</strong>: Biblioteca JavaScript para construção de interfaces interativas.</li>
-        <li><strong>JavaScript</strong>: Linguagem principal para lógica e funcionalidade da calculadora.</li>
-        <li><strong>Styled-Components</strong>: Biblioteca para estilização de componentes de forma modular.</li>
-        <li><strong>HTML/CSS</strong>: Estrutura e design responsivo da aplicação.</li>
-    </ul>
+## 🛠️ **Tecnologias Utilizadas**
 
-    <h2>📋 <strong>Pré-requisitos</strong></h2>
-    <p>Antes de começar, certifique-se de que o Node.js está instalado na sua máquina. Caso não esteja, você pode baixá-lo em <a href="https://nodejs.org/">nodejs.org</a>.</p>
+- **React**: Esta biblioteca JavaScript é amplamente utilizada para construir interfaces interativas e responsivas, oferecendo uma excelente experiência ao usuário.
+- **JavaScript**: A linguagem principal que fornece a lógica e a funcionalidade da calculadora, permitindo que ela execute as operações matemáticas desejadas.
+- **Styled-Components**: Uma biblioteca que permite a estilização de componentes de forma modular, garantindo que o design seja consistente em toda a aplicação.
+- **HTML/CSS**: Esses elementos são utilizados para a estrutura e o design responsivo da aplicação, assegurando que ela funcione bem em diferentes dispositivos.
 
-    <h2>🚀 <strong>Instalação</strong></h2>
-    <p>Siga os passos abaixo para configurar o projeto em sua máquina:</p>
-    <ol>
-        <li><strong>Clone o repositório:</strong></li>
-        <pre><code>git clone https://github.com/JulianaForbici/Calculadora-React.git</code></pre>
-        <li><strong>Navegue até o diretório do projeto:</strong></li>
-        <pre><code>cd Calculadora-React</code></pre>
-        <li><strong>Instale as dependências:</strong></li>
-        <pre><code>npm install</code></pre>
-    </ol>
+## 📋 **Pré-requisitos**
 
-    <h2>🔧 <strong>Uso</strong></h2>
-    <p>Para iniciar o aplicativo, execute o seguinte comando:</p>
-    <pre><code>npm run dev</code></pre>
-    <p>A aplicação estará disponível em <code>http://localhost:3000</code> (ou na porta especificada).</p>
+Antes de começar, certifique-se de que o Node.js está instalado na sua máquina; se não estiver, você pode baixá-lo em [nodejs.org](https://nodejs.org/).
 
-    <h2>🤝 <strong>Contribuições</strong></h2>
-    <p>Contribuições são muito bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests para melhorias.</p>
+## 🚀 **Instalação**
 
-    <h2>📄 <strong>Licença</strong></h2>
-    <p>Este projeto está sob a licença MIT. Consulte o arquivo <a href="LICENSE">LICENSE</a> para mais detalhes.</p>
+Siga os passos abaixo para configurar o projeto em sua máquina, o que lhe permitirá utilizá-lo facilmente:
 
-    <hr>
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/JulianaForbici/Calculadora-React.git
 
-    <p>Desenvolvido com carinho por <a href="https://github.com/JulianaForbici">Juliana Forbici</a> 💖</p>
+  2. **Navegue até o diretório do projeto**:
+   ```bash
+   cd Calculadora-React
 
-</body>
-</html>
+ 3. **Instale as dependências:**:
+   ```bash
+   npm install
+   npm install styled-components
+
+## 🔧 Uso
+Para iniciar o aplicativo, execute o seguinte comando, e a aplicação estará disponível para uso:
+
+  ```bash
+   npm run dev
+
+## 🤝 Contribuições
+Contribuições são muito bem-vindas, então sinta-se à vontade para abrir issues e enviar pull requests para melhorias, pois a colaboração é sempre apreciada na comunidade de desenvolvimento.
+
+## 📄 Licença
+Este projeto está sob a licença MIT; consulte o arquivo LICENSE para mais detalhes.
+
+ 
+
