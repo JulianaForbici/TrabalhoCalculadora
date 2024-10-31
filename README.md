@@ -1,51 +1,45 @@
 # 🥳 **Calculadora React** 🥳
 
-Bem-vindo ao projeto da **Calculadora React**, uma aplicação simples e elegante que foi desenvolvida como trabalho da faculdade! Ela é ideal para realizar operações matemáticas básicas, oferece uma experiência fácil e estilosa ao usuário. :)
+Bem-vindo ao projeto da **Calculadora React**! Esta é uma aplicação simples e elegante, desenvolvida como trabalho da faculdade, ideal para realizar operações matemáticas básicas com uma experiência estilosa e intuitiva. :)
 
 ## 🎯 **Funcionalidades**
 
-- **Operações Básicas**: A calculadora realiza operações como adição, subtração, multiplicação e divisão, permitindo que o usuário execute cálculos rapidamente.
-- **Suporte a Números**: Ela lida com números positivos e negativos, tornando-a versátil para diferentes tipos de cálculos.
-- **Resultado em Tempo Real**: O resultado é exibido em tempo real enquanto o usuário digita, o que proporciona uma interação mais dinâmica.
-- **Limpeza Simples**: A calculadora possui um botão para limpar a tela e reiniciar as operações, facilitando o uso contínuo.
+- **Operações Básicas**: Adição, subtração, multiplicação e divisão para cálculos rápidos.
+- **Suporte a Números**: Funciona com números positivos e negativos, oferecendo versatilidade.
+- **Resultado em Tempo Real**: Exibição instantânea dos resultados enquanto você digita.
+- **Limpeza Simples**: Botão para limpar a tela e reiniciar operações facilmente.
 
 ## 🛠️ **Tecnologias Utilizadas**
 
-- **React**: Esta biblioteca JavaScript é amplamente utilizada para construir interfaces interativas e responsivas, oferecendo uma excelente experiência ao usuário.
-- **JavaScript**: A linguagem principal que fornece a lógica e a funcionalidade da calculadora, permitindo que ela execute as operações matemáticas desejadas.
-- **Styled-Components**: Uma biblioteca que permite a estilização de componentes de forma modular, garantindo que o design seja consistente em toda a aplicação.
-- **HTML/CSS**: Esses elementos são utilizados para a estrutura e o design responsivo da aplicação, assegurando que ela funcione bem em diferentes dispositivos.
+- **React**: Biblioteca JavaScript para interfaces interativas e responsivas.
+- **JavaScript**: Lógica principal da calculadora para executar operações matemáticas.
+- **Styled-Components**: Estilização modular dos componentes, garantindo consistência no design.
+- **HTML/CSS**: Estrutura e design responsivo, otimizado para diferentes dispositivos.
 
 ## 📋 **Pré-requisitos**
 
-Antes de começar, certifique-se de que o Node.js está instalado na sua máquina; se não estiver, você pode baixá-lo em [nodejs.org](https://nodejs.org/).
+Antes de começar, verifique se o Node.js está instalado na sua máquina. Caso não esteja, você pode baixá-lo em [nodejs.org](https://nodejs.org/).
 
 ## 🚀 **Instalação**
 
-Siga os passos abaixo para configurar o projeto em sua máquina, o que lhe permitirá utilizá-lo facilmente:
+Siga os passos abaixo para configurar o projeto em sua máquina:
+1. **Clone o repositório**: 
+   `git clone https://github.com/JulianaForbici/TrabalhoCalculadora.git`
+2. **Navegue até o diretório do projeto**: 
+   `cd TrabalhoCalculadora`
+3. **Instale as dependências**: 
+   `npm install` 
+   `npm install styled-components`
 
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/JulianaForbici/TrabalhoCalculadora.git
+## 🔧 **Uso**
 
+Para iniciar o aplicativo, execute o seguinte comando e a aplicação estará disponível para uso:
+`npm run dev`
 
-  2. **Navegue até o diretório do projeto**:
-   cd Calculadora-React
+## 🤝 **Contribuições**
 
- 3. **Instale as dependências:**:
-   npm install
-   npm install styled-components
+Contribuições são muito bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests para melhorias. A colaboração é sempre apreciada na comunidade de desenvolvimento.
 
-## 🔧 Uso
-Para iniciar o aplicativo, execute o seguinte comando, e a aplicação estará disponível para uso:
+## 📄 **Licença**
 
-   npm run dev
-
-## 🤝 Contribuições
-Contribuições são muito bem-vindas, então sinta-se à vontade para abrir issues e enviar pull requests para melhorias, pois a colaboração é sempre apreciada na comunidade de desenvolvimento.
-
-## 📄 Licença
-Este projeto está sob a licença MIT; consulte o arquivo LICENSE para mais detalhes.
-
- 
-
+Este projeto está sob a licença MIT. 
